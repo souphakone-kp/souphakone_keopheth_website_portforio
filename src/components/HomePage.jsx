@@ -62,7 +62,7 @@ function HomePage() {
       if (window.Typed) {
         typedInstance = new window.Typed(".multiple-text", {
           strings: [
-            "Souphakone Youjalearn",
+            "Souphakone keophth",
             "Software Developer",
             "Data Analyst",
             "UI/UX Enthusiast",
