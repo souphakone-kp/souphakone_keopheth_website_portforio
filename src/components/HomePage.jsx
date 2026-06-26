@@ -8,7 +8,7 @@ import lo from "./../locales/lo.json";
 import { Paths } from "../routes/app";
 
 import profiledp from "./../assets/image/profiledp.png";
-import cvFile from "./../assets/image/Resume_Portfolio_Souphakone.pdf";
+import cvFile from "./../assets/image/Resume_Souphakone_keopheth.pdf";
 import cer1 from "./../assets/image/cer1.png";
 import cer3 from "./../assets/image/cer3.png";
 import cer6 from "./../assets/image2/cer6.png";
